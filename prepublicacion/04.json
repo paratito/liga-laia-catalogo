@@ -1,0 +1,1175 @@
+{
+  "schema": 1,
+  "season": "2026-27",
+  "edition": 4,
+  "name": "4ª edición",
+  "releaseDate": "2026-10-26",
+  "status": "candidate",
+  "records": [
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-ATH-5",
+        "num": "5 Bis",
+        "name": "Hugo Rincón",
+        "fullName": "Coloca Hugo Rincón",
+        "teamId": 1,
+        "teamName": "Athletic Club",
+        "teamCode": "ATH",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-ATH-12",
+        "num": "12 Bis",
+        "name": "Beñat Gerenabarrena",
+        "fullName": "Coloca Beñat Gerenabarrena",
+        "teamId": 1,
+        "teamName": "Athletic Club",
+        "teamCode": "ATH",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-ATM-6",
+        "num": "6 Bis",
+        "name": "Dani Martínez",
+        "fullName": "Coloca Dani Martínez",
+        "teamId": 2,
+        "teamName": "Atlético de Madrid",
+        "teamCode": "ATM",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-BAR-10",
+        "num": "10 Bis",
+        "name": "Xavi Espart",
+        "fullName": "Coloca Xavi Espart",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-BET-9",
+        "num": "9 Bis",
+        "name": "Junior Firpo",
+        "fullName": "Coloca Junior Firpo",
+        "teamId": 4,
+        "teamName": "Real Betis",
+        "teamCode": "BET",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-CEL-4",
+        "num": "4 Bis",
+        "name": "Altay Bayındır",
+        "fullName": "Coloca Altay Bayındır",
+        "teamId": 5,
+        "teamName": "RC Celta de Vigo",
+        "teamCode": "CEL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-CEL-14BIS2",
+        "num": "14 Bis2",
+        "name": "Hugo Burcio",
+        "fullName": "Coloca Hugo Burcio",
+        "teamId": 5,
+        "teamName": "RC Celta de Vigo",
+        "teamCode": "CEL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-CEL-15",
+        "num": "15 Bis",
+        "name": "Couhaib Driouech",
+        "fullName": "Coloca Couhaib Driouech",
+        "teamId": 5,
+        "teamName": "RC Celta de Vigo",
+        "teamCode": "CEL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-DEP-14BIS2",
+        "num": "14 Bis2",
+        "name": "Marc Casadó",
+        "fullName": "Coloca Marc Casadó",
+        "teamId": 6,
+        "teamName": "RC Deportivo",
+        "teamCode": "DEP",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-ELC-5",
+        "num": "5 Bis",
+        "name": "Rubén Sánchez",
+        "fullName": "Coloca Rubén Sánchez",
+        "teamId": 7,
+        "teamName": "Elche CF",
+        "teamCode": "ELC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-ELC-8",
+        "num": "8 Bis",
+        "name": "Roy Revivo",
+        "fullName": "Coloca Roy Revivo",
+        "teamId": 7,
+        "teamName": "Elche CF",
+        "teamCode": "ELC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-ELC-15",
+        "num": "15 Bis",
+        "name": "Thomas Lemar",
+        "fullName": "Coloca Thomas Lemar",
+        "teamId": 7,
+        "teamName": "Elche CF",
+        "teamCode": "ELC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-GET-12",
+        "num": "12 Bis",
+        "name": "Christantus Uche",
+        "fullName": "Coloca Christantus Uche",
+        "teamId": 9,
+        "teamName": "Getafe CF",
+        "teamCode": "GET",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-GET-17",
+        "num": "17 Bis",
+        "name": "Iván Azón",
+        "fullName": "Coloca Iván Azón",
+        "teamId": 9,
+        "teamName": "Getafe CF",
+        "teamCode": "GET",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-LEV-10",
+        "num": "10 Bis",
+        "name": "Ifeanyi Ndukwe",
+        "fullName": "Coloca Ifeanyi Ndukwe",
+        "teamId": 10,
+        "teamName": "Levante UD",
+        "teamCode": "LEV",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-LEV-15",
+        "num": "15 Bis",
+        "name": "Petar Ratkov",
+        "fullName": "Coloca Petar Ratkov",
+        "teamId": 10,
+        "teamName": "Levante UD",
+        "teamCode": "LEV",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RMA-18",
+        "num": "18 Bis",
+        "name": "Endrick",
+        "fullName": "Coloca Endrick",
+        "teamId": 15,
+        "teamName": "Real Madrid CF",
+        "teamCode": "RMA",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-MAL-8",
+        "num": "8 Bis",
+        "name": "Juan Berrocal",
+        "fullName": "Coloca Juan Berrocal",
+        "teamId": 11,
+        "teamName": "Málaga CF",
+        "teamCode": "MAL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-MAL-15",
+        "num": "15 Bis",
+        "name": "Jens Cajuste",
+        "fullName": "Coloca Jens Cajuste",
+        "teamId": 11,
+        "teamName": "Málaga CF",
+        "teamCode": "MAL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-OSA-7",
+        "num": "7 Bis",
+        "name": "Rockson Yeboah",
+        "fullName": "Coloca Rockson Yeboah",
+        "teamId": 12,
+        "teamName": "CA Osasuna",
+        "teamCode": "OSA",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-OSA-9",
+        "num": "9 Bis",
+        "name": "Diego Rico",
+        "fullName": "Coloca Diego Rico",
+        "teamId": 12,
+        "teamName": "CA Osasuna",
+        "teamCode": "OSA",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAC-10",
+        "num": "10 Bis",
+        "name": "Aarón Martín",
+        "fullName": "Coloca Aarón Martín",
+        "teamId": 13,
+        "teamName": "Racing de Santander",
+        "teamCode": "RAC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAC-12",
+        "num": "12 Bis",
+        "name": "Matteo Prati",
+        "fullName": "Coloca Matteo Prati",
+        "teamId": 13,
+        "teamName": "Racing de Santander",
+        "teamCode": "RAC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAC-14",
+        "num": "14 Bis",
+        "name": "André Almeida",
+        "fullName": "Coloca André Almeida",
+        "teamId": 13,
+        "teamName": "Racing de Santander",
+        "teamCode": "RAC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAC-19",
+        "num": "19 Bis",
+        "name": "Iker Luque",
+        "fullName": "Coloca Iker Luque",
+        "teamId": 13,
+        "teamName": "Racing de Santander",
+        "teamCode": "RAC",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAY-4",
+        "num": "4 Bis",
+        "name": "Emil Audero",
+        "fullName": "Coloca Emil Audero",
+        "teamId": 14,
+        "teamName": "Rayo Vallecano",
+        "teamCode": "RAY",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAY-12",
+        "num": "12 Bis",
+        "name": "Gnangoro Bouaré",
+        "fullName": "Coloca Gnangoro Bouaré",
+        "teamId": 14,
+        "teamName": "Rayo Vallecano",
+        "teamCode": "RAY",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RAY-17",
+        "num": "17 Bis",
+        "name": "Giorgi Tsitaishvili",
+        "fullName": "Coloca Giorgi Tsitaishvili",
+        "teamId": 14,
+        "teamName": "Rayo Vallecano",
+        "teamCode": "RAY",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-RSO-15",
+        "num": "15 Bis",
+        "name": "Job Ochieng",
+        "fullName": "Coloca Job Ochieng",
+        "teamId": 16,
+        "teamName": "Real Sociedad",
+        "teamCode": "RSO",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-SEV-11",
+        "num": "11 Bis",
+        "name": "Youssouf Fofana",
+        "fullName": "Coloca Youssouf Fofana",
+        "teamId": 17,
+        "teamName": "Sevilla FC",
+        "teamCode": "SEV",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-SEV-14",
+        "num": "14 Bis",
+        "name": "Nico Guillén",
+        "fullName": "Coloca Nico Guillén",
+        "teamId": 17,
+        "teamName": "Sevilla FC",
+        "teamCode": "SEV",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-SEV-16",
+        "num": "16 Bis",
+        "name": "Alfon",
+        "fullName": "Coloca Alfon",
+        "teamId": 17,
+        "teamName": "Sevilla FC",
+        "teamCode": "SEV",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-VAL-2",
+        "num": "2 Bis",
+        "name": "Javier Aguirre",
+        "fullName": "Coloca Javier Aguirre",
+        "teamId": 18,
+        "teamName": "Valencia CF",
+        "teamCode": "VAL",
+        "category": "Coloca",
+        "subCategory": "entrenador",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-VAL-4",
+        "num": "4 Bis",
+        "name": "Kayne Van Oevelen",
+        "fullName": "Coloca Kayne Van Oevelen",
+        "teamId": 18,
+        "teamName": "Valencia CF",
+        "teamCode": "VAL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-VAL-18",
+        "num": "18 Bis",
+        "name": "David Otorbi",
+        "fullName": "Coloca David Otorbi",
+        "teamId": 18,
+        "teamName": "Valencia CF",
+        "teamCode": "VAL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-VIL-8",
+        "num": "8 Bis",
+        "name": "Alassane Diatta",
+        "fullName": "Coloca Alassane Diatta",
+        "teamId": 19,
+        "teamName": "Villarreal CF",
+        "teamCode": "VIL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "colocas",
+      "card": {
+        "id": "COL-VIL-16",
+        "num": "16 Bis",
+        "name": "Ilias Akhomach",
+        "fullName": "Coloca Ilias Akhomach",
+        "teamId": 19,
+        "teamName": "Villarreal CF",
+        "teamCode": "VIL",
+        "category": "Coloca",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-41",
+        "num": "UF41",
+        "name": "Ezequiel Ponce",
+        "fullName": "Último Fichaje Ezequiel Ponce",
+        "teamId": 7,
+        "teamName": "Elche CF",
+        "teamCode": "ELC",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-42",
+        "num": "UF42",
+        "name": "Nemanja Gudelj",
+        "fullName": "Último Fichaje Nemanja Gudelj",
+        "teamId": 9,
+        "teamName": "Getafe CF",
+        "teamCode": "GET",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-43",
+        "num": "UF43",
+        "name": "Mamadou Sarr",
+        "fullName": "Último Fichaje Mamadou Sarr",
+        "teamId": 16,
+        "teamName": "Real Sociedad",
+        "teamCode": "RSO",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-44",
+        "num": "UF44",
+        "name": "Miguel Rodríguez",
+        "fullName": "Último Fichaje Miguel Rodríguez",
+        "teamId": 0,
+        "teamName": "Deportivo Alavés",
+        "teamCode": "ALA",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-45",
+        "num": "UF45",
+        "name": "Pablo Martínez",
+        "fullName": "Último Fichaje Pablo Martínez",
+        "teamId": 11,
+        "teamName": "Málaga CF",
+        "teamCode": "MAL",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-46",
+        "num": "UF46",
+        "name": "Romain del Castillo",
+        "fullName": "Último Fichaje Romain del Castillo",
+        "teamId": 12,
+        "teamName": "CA Osasuna",
+        "teamCode": "OSA",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-47",
+        "num": "UF47",
+        "name": "Jeanuël Belocian",
+        "fullName": "Último Fichaje Jeanuël Belocian",
+        "teamId": 13,
+        "teamName": "Racing de Santander",
+        "teamCode": "RAC",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-48",
+        "num": "UF48",
+        "name": "Lucas Stassin",
+        "fullName": "Último Fichaje Lucas Stassin",
+        "teamId": 17,
+        "teamName": "Sevilla FC",
+        "teamCode": "SEV",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-49",
+        "num": "UF49",
+        "name": "Mujaid Sadick",
+        "fullName": "Último Fichaje Mujaid Sadick",
+        "teamId": 14,
+        "teamName": "Rayo Vallecano",
+        "teamCode": "RAY",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-50",
+        "num": "UF50",
+        "name": "Bryan Zaragoza",
+        "fullName": "Último Fichaje Bryan Zaragoza",
+        "teamId": 8,
+        "teamName": "RCD Espanyol",
+        "teamCode": "ESP",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-51",
+        "num": "UF51",
+        "name": "Nathan Saliba",
+        "fullName": "Último Fichaje Nathan Saliba",
+        "teamId": 19,
+        "teamName": "Villarreal CF",
+        "teamCode": "VIL",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-52",
+        "num": "UF52",
+        "name": "José María Giménez",
+        "fullName": "Último Fichaje José María Giménez",
+        "teamId": 6,
+        "teamName": "RC Deportivo",
+        "teamCode": "DEP",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-53",
+        "num": "UF53",
+        "name": "Adrià Pedrosa",
+        "fullName": "Último Fichaje Adrià Pedrosa",
+        "teamId": 14,
+        "teamName": "Rayo Vallecano",
+        "teamCode": "RAY",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-54",
+        "num": "UF54",
+        "name": "Sebastián Cáceres",
+        "fullName": "Último Fichaje Sebastián Cáceres",
+        "teamId": 5,
+        "teamName": "RC Celta de Vigo",
+        "teamCode": "CEL",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-55",
+        "num": "UF55",
+        "name": "Dominik Livaković",
+        "fullName": "Último Fichaje Dominik Livaković",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-56",
+        "num": "UF56",
+        "name": "Pablo García",
+        "fullName": "Último Fichaje Pablo García",
+        "teamId": 13,
+        "teamName": "Racing de Santander",
+        "teamCode": "RAC",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-57",
+        "num": "UF57",
+        "name": "Arnau Martínez",
+        "fullName": "Último Fichaje Arnau Martínez",
+        "teamId": 18,
+        "teamName": "Valencia CF",
+        "teamCode": "VAL",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-58",
+        "num": "UF58",
+        "name": "Abiel Osorio",
+        "fullName": "Último Fichaje Abiel Osorio",
+        "teamId": 7,
+        "teamName": "Elche CF",
+        "teamCode": "ELC",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-59",
+        "num": "UF59",
+        "name": "Héctor Fort",
+        "fullName": "Último Fichaje Héctor Fort",
+        "teamId": 16,
+        "teamName": "Real Sociedad",
+        "teamCode": "RSO",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-60",
+        "num": "UF60",
+        "name": "Cristian Romero",
+        "fullName": "Último Fichaje Cristian Romero",
+        "teamId": 2,
+        "teamName": "Atlético de Madrid",
+        "teamCode": "ATM",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-61",
+        "num": "UF61",
+        "name": "Félix Correia",
+        "fullName": "Último Fichaje Félix Correia",
+        "teamId": 17,
+        "teamName": "Sevilla FC",
+        "teamCode": "SEV",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-62",
+        "num": "UF62",
+        "name": "Adama Traoré",
+        "fullName": "Último Fichaje Adama Traoré",
+        "teamId": 6,
+        "teamName": "RC Deportivo",
+        "teamCode": "DEP",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-63",
+        "num": "UF63",
+        "name": "Gabriel Jesus",
+        "fullName": "Último Fichaje Gabriel Jesus",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-64",
+        "num": "UF64",
+        "name": "Harvey Elliott",
+        "fullName": "Último Fichaje Harvey Elliott",
+        "teamId": 18,
+        "teamName": "Valencia CF",
+        "teamCode": "VAL",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-65",
+        "num": "UF65",
+        "name": "Dani Ceballos",
+        "fullName": "Último Fichaje Dani Ceballos",
+        "teamId": 4,
+        "teamName": "Real Betis",
+        "teamCode": "BET",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "ultimos_fichajes",
+      "card": {
+        "id": "UF-66",
+        "num": "UF66",
+        "name": "Jonathan David",
+        "fullName": "Último Fichaje Jonathan David",
+        "teamId": 2,
+        "teamName": "Atlético de Madrid",
+        "teamCode": "ATM",
+        "category": "Últimos Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "top_fichajes",
+      "card": {
+        "id": "TF-67",
+        "num": "67",
+        "name": "Rodri",
+        "fullName": "Top Fichajes Rodri",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Top Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "top_fichajes",
+      "card": {
+        "id": "TF-68",
+        "num": "68",
+        "name": "Marc Cucurella",
+        "fullName": "Top Fichajes Marc Cucurella",
+        "teamId": 15,
+        "teamName": "Real Madrid CF",
+        "teamCode": "RMA",
+        "category": "Top Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "top_fichajes",
+      "card": {
+        "id": "TF-69",
+        "num": "69",
+        "name": "Kang-in Lee",
+        "fullName": "Top Fichajes Kang-in Lee",
+        "teamId": 2,
+        "teamName": "Atlético de Madrid",
+        "teamCode": "ATM",
+        "category": "Top Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "extra_bronce",
+      "card": {
+        "id": "ESBRO-RODRI",
+        "num": "ES-B",
+        "name": "Rodri",
+        "fullName": "Extra Sticker Bronce Rodri",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Extra Sticker Bronce",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "extra_bronce",
+      "card": {
+        "id": "ESBRO-BELLINGHAM",
+        "num": "ES-B",
+        "name": "Bellingham",
+        "fullName": "Extra Sticker Bronce Bellingham",
+        "teamId": 15,
+        "teamName": "Real Madrid CF",
+        "teamCode": "RMA",
+        "category": "Extra Sticker Bronce",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "extra_plata",
+      "card": {
+        "id": "ESPLA-RODRI",
+        "num": "ES-P",
+        "name": "Rodri",
+        "fullName": "Extra Sticker Plata Rodri",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Extra Sticker Plata",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "extra_plata",
+      "card": {
+        "id": "ESPLA-BELLINGHAM",
+        "num": "ES-P",
+        "name": "Bellingham",
+        "fullName": "Extra Sticker Plata Bellingham",
+        "teamId": 15,
+        "teamName": "Real Madrid CF",
+        "teamCode": "RMA",
+        "category": "Extra Sticker Plata",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "extra_oro",
+      "card": {
+        "id": "ESORO-RODRI",
+        "num": "ES-O",
+        "name": "Rodri",
+        "fullName": "Extra Sticker Oro Rodri",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
+        "category": "Extra Sticker Oro",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "extra_oro",
+      "card": {
+        "id": "ESORO-BELLINGHAM",
+        "num": "ES-O",
+        "name": "Bellingham",
+        "fullName": "Extra Sticker Oro Bellingham",
+        "teamId": 15,
+        "teamName": "Real Madrid CF",
+        "teamCode": "RMA",
+        "category": "Extra Sticker Oro",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    }
+  ],
+  "checks": {
+    "colocas": 37,
+    "ultimos_fichajes": 26,
+    "top_fichajes": 3,
+    "extras": 6
+  },
+  "sources": [
+    "https://www.decromosconjr.es/laliga-ea-sports-2026-27-listado-ediciones/",
+    "https://cromolista.com/coleccion/liga-este-2026-27/edicion/4",
+    "https://cartophilic-info-exch.blogspot.com/2026/10/panini-spain-laliga-este-2026-27-01.html",
+    "https://davileti9.com/liga-este-2026-27-cuarta-edicion/"
+  ],
+  "remarks": "CANDIDATA, NO PUBLICADA: la numeración Top Fichajes 67-69 difiere entre fuentes. Los segundos BIS del Celta y Deportivo se identifican como Bis2 para evitar colisiones."
+}
