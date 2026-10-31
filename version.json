@@ -1,7 +1,14 @@
 {
   "schema": 1,
   "season": "2026-27",
-  "latestEdition": 3,
+  "latestEdition": 4,
   "published": true,
-  "editions": []
+  "editions": [
+    {
+      "edition": 4,
+      "file": "ediciones/04.json",
+      "sha256": "7101bb95a66f5dcc00884a9babe4cb57301237dbc182b579060a49ac63654442",
+      "recordCount": 72
+    }
+  ]
 }
