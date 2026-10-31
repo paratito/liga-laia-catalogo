@@ -1019,22 +1019,6 @@
       "card": {
         "id": "TF-67",
         "num": "67",
-        "name": "Rodri",
-        "fullName": "Top Fichajes Rodri",
-        "teamId": 3,
-        "teamName": "FC Barcelona",
-        "teamCode": "BAR",
-        "category": "Top Fichajes",
-        "subCategory": "",
-        "published": true,
-        "editionOrigin": "4ª edición"
-      }
-    },
-    {
-      "specialKey": "top_fichajes",
-      "card": {
-        "id": "TF-68",
-        "num": "68",
         "name": "Marc Cucurella",
         "fullName": "Top Fichajes Marc Cucurella",
         "teamId": 15,
@@ -1049,13 +1033,29 @@
     {
       "specialKey": "top_fichajes",
       "card": {
-        "id": "TF-69",
-        "num": "69",
+        "id": "TF-68",
+        "num": "68",
         "name": "Kang-in Lee",
         "fullName": "Top Fichajes Kang-in Lee",
         "teamId": 2,
         "teamName": "Atlético de Madrid",
         "teamCode": "ATM",
+        "category": "Top Fichajes",
+        "subCategory": "",
+        "published": true,
+        "editionOrigin": "4ª edición"
+      }
+    },
+    {
+      "specialKey": "top_fichajes",
+      "card": {
+        "id": "TF-69",
+        "num": "69",
+        "name": "Rodri",
+        "fullName": "Top Fichajes Rodri",
+        "teamId": 3,
+        "teamName": "FC Barcelona",
+        "teamCode": "BAR",
         "category": "Top Fichajes",
         "subCategory": "",
         "published": true,
@@ -1169,7 +1169,9 @@
     "https://www.decromosconjr.es/laliga-ea-sports-2026-27-listado-ediciones/",
     "https://cromolista.com/coleccion/liga-este-2026-27/edicion/4",
     "https://cartophilic-info-exch.blogspot.com/2026/10/panini-spain-laliga-este-2026-27-01.html",
-    "https://davileti9.com/liga-este-2026-27-cuarta-edicion/"
+    "https://davileti9.com/liga-este-2026-27-cuarta-edicion/",
+    "https://www.laststicker.ru/cards/este_liga_2026-2027/",
+    "https://www.todocoleccion.net/s/cromos-futbol?P=190&from=home_tienda"
   ],
-  "remarks": "CANDIDATA, NO PUBLICADA: la numeración Top Fichajes 67-69 difiere entre fuentes. Los segundos BIS del Celta y Deportivo se identifican como Bis2 para evitar colisiones."
+  "remarks": "CANDIDATA, NO PUBLICADA: numeración Top Fichajes 67 Cucurella, 68 Kang-in Lee, 69 Rodri contrastada con Cartophilic, Cromolista, LastSticker y anuncios de cromos individuales en todocoleccion. Otras checklists publican un orden diferente. Los segundos BIS de Celta y Deportivo se identifican como Bis2 para evitar colisiones."
 }
