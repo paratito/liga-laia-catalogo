@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "season": "2026-27",
+  "latestEdition": 4,
+  "published": true,
+  "testOnly": true,
+  "editions": [
+    {
+      "edition": 4,
+      "file": "edicion-simulada-04.json",
+      "sha256": "0e184fc7fce905213c1aad11d91ca116a07512440bead702691470d3abbdff0b",
+      "recordCount": 1
+    }
+  ]
+}
